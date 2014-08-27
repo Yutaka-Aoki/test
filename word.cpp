@@ -12,6 +12,7 @@ int MonthToSeason(int month){
 	return( season );
 }
 void Display( struct Word* ssp,int language){
+			cout << language << endl;
 	if( language ){
 		cout << ssp->english << endl;
 	}
