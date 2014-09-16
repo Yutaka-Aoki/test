@@ -2,7 +2,7 @@
 #include <iostream>
 #include "word.h"
 using namespace std;
-
+//test
 int main(void){
 	char *season_j[]={"t","‰Ä","H","“~"};
 	char *season_e[]={"spring","summer","autumn","winter"};
