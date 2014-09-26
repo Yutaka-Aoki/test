@@ -4,7 +4,7 @@
 using namespace std;
 //test
 
-//test hipchat
+//test hipchat  I hop to work!
 int main(void){
 	char *season_j[]={"t","‰Ä","H","“~"};
 	char *season_e[]={"spring","summer","autumn","winter"};
