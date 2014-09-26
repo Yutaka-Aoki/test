@@ -6,6 +6,7 @@ using namespace std;
 
 //test hipchat  I hop to work!
 //what
+//it's work in local.
 int main(void){
 	char *season_j[]={"t","‰Ä","H","“~"};
 	char *season_e[]={"spring","summer","autumn","winter"};
